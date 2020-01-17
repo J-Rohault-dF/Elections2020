@@ -1,14 +1,14 @@
 # Elections municipales de 2020 à Paris
 **Résumé des listes** : Nom de la liste (Partis) - candidat à la Mairie :
-* LFI : Décidons Paris (LFI-PG-REV) - Danielle Simonnet
-* UG : Dès demain, Paris en commun (PS-PCF-PP-G.s) - Anne Hidalgo
-* EELV : L'écologie pour Paris (EELV-PA-UE-AEI) - David Belliard
-* PP : Parisiennes, Parisiens (DVG) - Gaspard Gantzer
-* NP : Le Nouveau Paris (Diss LREM) - Cédric Villani
-* UC : Paris Ensemble (LREM-UDI-Agir) - Benjamin Griveaux
-* LR : Engagés pour changer Paris (LR) - Rachida Dati
-* DVD : Aimer Paris (DVD, soutien RN-PCD) - Serge Federbusch
-* LP : Libérons Paris (/) - Marcel Campion
+* ![](https://placehold.it/15/cc2443/000000?text=+) LFI : Décidons Paris (LFI-PG-REV) - Danielle Simonnet
+* ![](https://placehold.it/15/FF8080/000000?text=+) UG : Dès demain, Paris en commun (PS-PCF-PP-G.s) - Anne Hidalgo
+* ![](https://placehold.it/15/00c000/000000?text=+) EELV : L'écologie pour Paris (EELV-PA-UE-AEI) - David Belliard
+* ![](https://placehold.it/15/ffc0c0/000000?text=+) PP : Parisiennes, Parisiens (DVG) - Gaspard Gantzer
+* ![](https://placehold.it/15/ffeb00/000000?text=+) NP : Le Nouveau Paris (Diss LREM) - Cédric Villani
+* ![](https://placehold.it/15/ffeb00/000000?text=+) UC : Paris Ensemble (LREM-UDI-Agir) - Benjamin Griveaux
+* ![](https://placehold.it/15/0066CC/000000?text=+) LR : Engagés pour changer Paris (LR) - Rachida Dati
+* ![](https://placehold.it/15/adc1fd/000000?text=+) DVD : Aimer Paris (DVD, soutien RN-PCD) - Serge Federbusch
+* ![](https://placehold.it/15/f0f0f0/000000?text=+) LP : Libérons Paris (/) - Marcel Campion
 ## Résultats du premier tour
 **Gras** : Liste qualifiée pour le second tour / Liste reportant au premier tour
 
