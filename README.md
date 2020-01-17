@@ -10,4 +10,4 @@ Simple repository for me to play with, about the elections in 2020
 
 [Municipales de 2020 à Marseille](Marseille2020.md)
 
-[Métropolitaines de 2020 à Paris](LyonMet2020.md)
+[Métropolitaine de 2020 à Lyon](LyonMet2020.md)
