@@ -4,7 +4,7 @@
 * ![](https://placehold.it/15/FF8080/000000?text=+) UG : Dès demain, Paris en commun (PS-PCF-PP-G.s) - Anne Hidalgo
 * ![](https://placehold.it/15/00c000/000000?text=+) EELV : L'écologie pour Paris (EELV-PA-UE-AEI) - David Belliard
 * ![](https://placehold.it/15/ffc0c0/000000?text=+) PP : Parisiennes, Parisiens (DVG) - Gaspard Gantzer
-* ![](https://placehold.it/15/ffeb00/000000?text=+) NP : Le Nouveau Paris (Diss LREM) - Cédric Villani
+* ![](https://placehold.it/15/ff9900/000000?text=+) NP : Le Nouveau Paris (Diss LREM) - Cédric Villani
 * ![](https://placehold.it/15/ffeb00/000000?text=+) UC : Paris Ensemble (LREM-UDI-Agir) - Benjamin Griveaux
 * ![](https://placehold.it/15/0066CC/000000?text=+) LR : Engagés pour changer Paris (LR) - Rachida Dati
 * ![](https://placehold.it/15/adc1fd/000000?text=+) DVD : Aimer Paris (DVD, soutien RN-PCD) - Serge Federbusch
